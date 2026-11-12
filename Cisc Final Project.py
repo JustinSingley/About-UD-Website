@@ -15,7 +15,7 @@ set_site_information(
     author="Justin Singley",
     description="Explore UD: costs, campus life, and activities for future students.",
     sources="University of Delaware official website: https://www.udel.edu/; Drafter documentation",
-    planning="See the planning document included in this GitHub repository.",
+    planning="Copy of CS1 Final project 0_Pick a Problem.docx, CS1 Final Project 1_Design.docx, Website Flowchart.pdf",
     links=["https://www.udel.edu/"]
 )
 set_website_framed(False)
